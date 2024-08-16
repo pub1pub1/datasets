@@ -1,0 +1,101 @@
+ProductID,Product,Category,Segment,Manufacturer,Zip,City,State,Region,Date,Amount
+791,Natura RP-79,Rural,Productivity,Natura,18336,"Matamoras, PA",PA,East,9/30/2008,566.5743342
+759,Natura RP-47,Rural,Productivity,Natura,18337,"Milford, PA",PA,East,5/24/2004,1217.567824
+2345,Aliqui UE-19,Urban,Extreme,Aliqui,18337,"Milford, PA",PA,East,5/21/2009,3569.544304
+609,Maximus UC-74,Urban,Convenience,Maximus,18403,"Archbald, PA",PA,East,1/23/2008,7179.828201
+2045,Currus UE-05,Urban,Extreme,Currus,18407,"Carbondale, PA",PA,East,12/14/2004,3359.546404
+1109,Pirum RP-55,Rural,Productivity,Pirum,18411,"Clarks Summit, PA",PA,East,3/25/2002,1679.563204
+792,Natura RP-80,Rural,Productivity,Natura,18413,"Clifford, PA",PA,East,3/24/2004,1510.724893
+992,Natura UC-55,Urban,Convenience,Natura,18419,"Factoryville, PA",PA,East,7/24/2008,2435.555644
+609,Maximus UC-74,Urban,Convenience,Maximus,18426,"Greentown, PA",PA,East,8/31/2007,7179.828201
+674,Maximus UC-39,Urban,Convenience,Maximus,18426,"Greentown, PA",PA,East,11/28/2007,5709.842901
+952,Natura UC-15,Urban,Convenience,Natura,18337,"Milford, PA",PA,East,5/17/2001,2099.559004
+533,Maximus UE-21,Urban,Extreme,Maximus,18407,"Carbondale, PA",PA,East,5/17/2003,4197.858021
+650,Maximus UC-15,Urban,Convenience,Maximus,18407,"Carbondale, PA",PA,East,3/15/2006,4122.258777
+2388,Aliqui UC-36,Urban,Convenience,Aliqui,18407,"Carbondale, PA",PA,East,8/10/2000,2519.554804
+1203,Pirum UC-05,Urban,Convenience,Pirum,18411,"Clarks Summit, PA",PA,East,4/15/2002,2561.554384
+599,Maximus UC-64,Urban,Convenience,Maximus,18414,"Dalton, PA",PA,East,7/25/2007,7095.829041
+2388,Aliqui UC-36,Urban,Convenience,Aliqui,18424,"Gouldsboro, PA",PA,East,10/8/2007,2603.553964
+633,Maximus UC-98,Urban,Convenience,Maximus,18426,"Greentown, PA",PA,East,6/30/2009,4535.534644
+2388,Aliqui UC-36,Urban,Convenience,Aliqui,18426,"Greentown, PA",PA,East,4/10/2006,2519.554804
+573,Maximus UC-38,Urban,Convenience,Maximus,18428,"Hawley, PA",PA,East,10/9/2000,2349.876501
+431,Maximus UM-36,Urban,Moderation,Maximus,18428,"Hawley, PA",PA,East,7/14/2012,8231.497684
+2352,Aliqui UE-26,Urban,Extreme,Aliqui,18337,"Milford, PA",PA,East,8/2/2000,2939.550604
+2359,Aliqui UC-07,Urban,Convenience,Aliqui,18337,"Milford, PA",PA,East,7/29/2002,3443.545564
+400,Maximus UM-05,Urban,Moderation,Maximus,18337,"Milford, PA",PA,East,5/14/2007,6759.832401
+1076,Pirum RP-22,Rural,Productivity,Pirum,18337,"Milford, PA",PA,East,6/14/2001,2036.559634
+2225,Aliqui RP-22,Rural,Productivity,Aliqui,18403,"Archbald, PA",PA,East,3/30/2010,545.5745442
+1053,Pirum MA-11,Mix,All Season,Pirum,18407,"Carbondale, PA",PA,East,4/30/2008,2246.557534
+1230,Pirum UC-32,Urban,Convenience,Pirum,18407,"Carbondale, PA",PA,East,6/28/2000,4199.538004
+2332,Aliqui UE-06,Urban,Extreme,Aliqui,18407,"Carbondale, PA",PA,East,4/15/1999,3359.546404
+487,Maximus UM-92,Urban,Moderation,Maximus,18411,"Clarks Summit, PA",PA,East,6/10/2009,8819.491804
+585,Maximus UC-50,Urban,Convenience,Maximus,18411,"Clarks Summit, PA",PA,East,3/31/2010,3359.546404
+630,Maximus UC-95,Urban,Convenience,Maximus,18411,"Clarks Summit, PA",PA,East,10/28/2006,4113.858861
+528,Maximus UE-16,Urban,Extreme,Maximus,18414,"Dalton, PA",PA,East,9/11/2006,4827.851721
+2100,Currus YY-04,Youth,Youth,Currus,18426,"Greentown, PA",PA,East,6/6/2011,3149.548504
+396,Maximus UM-01,Urban,Moderation,Maximus,18428,"Hawley, PA",PA,East,5/26/2001,7011.829881
+2334,Aliqui UE-08,Urban,Extreme,Aliqui,18431,"Honesdale, PA",PA,East,5/18/2009,2876.551234
+2391,Aliqui UC-39,Urban,Convenience,Aliqui,18434,"Jessup, PA",PA,East,12/6/2006,6173.518264
+2402,Aliqui YY-11,Youth,Youth,Aliqui,18434,"Jessup, PA",PA,East,6/29/2005,2435.555644
+1096,Pirum RP-42,Rural,Productivity,Pirum,18436,"Lake Ariel, PA",PA,East,12/27/2004,965.5703442
+1098,Pirum RP-44,Rural,Productivity,Pirum,18436,"Lake Ariel, PA",PA,East,3/18/2008,2561.554384
+964,Natura UC-27,Urban,Convenience,Natura,18438,"Lakeville, PA",PA,East,8/23/2001,2519.554804
+585,Maximus UC-50,Urban,Convenience,Maximus,18444,"Moscow, PA",PA,East,3/6/2010,3359.546404
+762,Natura RP-50,Rural,Productivity,Natura,18444,"Moscow, PA",PA,East,7/24/2006,1511.564884
+792,Natura RP-80,Rural,Productivity,Natura,18428,"Hawley, PA",PA,East,5/15/2004,503.5749642
+1059,Pirum RP-05,Rural,Productivity,Pirum,18428,"Hawley, PA",PA,East,4/22/2013,1343.566564
+1177,Pirum UE-13,Urban,Extreme,Pirum,18431,"Honesdale, PA",PA,East,5/10/2013,2099.559004
+1191,Pirum UE-27,Urban,Extreme,Pirum,18431,"Honesdale, PA",PA,East,4/14/2008,2120.558794
+2396,Aliqui YY-05,Youth,Youth,Aliqui,18431,"Honesdale, PA",PA,East,12/27/2005,776.5722342
+342,Fama UE-63,Urban,Extreme,Fama,18434,"Jessup, PA",PA,East,8/26/2008,5457.845421
+609,Maximus UC-74,Urban,Convenience,Maximus,18444,"Moscow, PA",PA,East,9/28/2006,7179.828201
+910,Natura UE-19,Urban,Extreme,Natura,18444,"Moscow, PA",PA,East,10/15/1999,3317.546824
+506,Maximus UM-11,Urban,Moderation,Maximus,18447,"Olyphant, PA",PA,East,9/27/2011,9995.480044
+472,Maximus UM-77,Urban,Moderation,Maximus,18336,"Matamoras, PA",PA,East,11/1/2002,7690.123098
+604,Maximus UC-69,Urban,Convenience,Maximus,18403,"Archbald, PA",PA,East,3/30/2004,3958.460415
+647,Maximus UC-12,Urban,Convenience,Maximus,18403,"Archbald, PA",PA,East,9/10/2005,7478.025219
+2054,Currus UE-14,Urban,Extreme,Currus,18428,"Hawley, PA",PA,East,6/8/2005,4556.534434
+797,Natura RS-01,Rural,Select,Natura,18403,"Archbald, PA",PA,East,8/29/2002,2477.555224
+1483,Quibus RP-75,Rural,Productivity,Quibus,18407,"Carbondale, PA",PA,East,11/26/2003,608.1539184
+2388,Aliqui UC-36,Urban,Convenience,Aliqui,18436,"Lake Ariel, PA",PA,East,6/20/2007,2603.553964
+647,Maximus UC-12,Urban,Convenience,Maximus,18411,"Clarks Summit, PA",PA,East,2/1/2006,7478.025219
+2205,Aliqui RP-02,Rural,Productivity,Aliqui,18439,"Lakewood, PA",PA,East,11/12/2003,1175.568244
+622,Maximus UC-87,Urban,Convenience,Maximus,18415,"Damascus, PA",PA,East,5/31/2006,6701.032989
+550,Maximus UC-15,Urban,Convenience,Maximus,18444,"Moscow, PA",PA,East,6/22/2001,3315.866841
+2083,Currus UC-18,Urban,Convenience,Currus,18421,"Forest City, PA",PA,East,5/23/2003,2519.554804
+465,Maximus UM-70,Urban,Moderation,Maximus,18447,"Olyphant, PA",PA,East,5/4/2014,9449.485504
+769,Natura RP-57,Rural,Productivity,Natura,18407,"Carbondale, PA",PA,East,4/15/1999,2057.559424
+604,Maximus UC-69,Urban,Convenience,Maximus,18426,"Greentown, PA",PA,East,5/26/2001,3777.862221
+467,Maximus UM-72,Urban,Moderation,Maximus,18447,"Olyphant, PA",PA,East,5/14/2001,7154.628453
+1065,Pirum RP-11,Rural,Productivity,Pirum,18428,"Hawley, PA",PA,East,7/15/2002,2435.555644
+631,Maximus UC-96,Urban,Convenience,Maximus,18447,"Olyphant, PA",PA,East,7/15/1999,2769.872301
+605,Maximus UC-70,Urban,Convenience,Maximus,18411,"Clarks Summit, PA",PA,East,1/22/2005,3189.868101
+990,Natura UC-53,Urban,Convenience,Natura,18431,"Honesdale, PA",PA,East,9/29/2000,3527.544724
+2269,Aliqui RS-02,Rural,Select,Aliqui,18447,"Olyphant, PA",PA,East,3/22/2002,2309.556904
+1180,Pirum UE-16,Urban,Extreme,Pirum,18424,"Gouldsboro, PA",PA,East,5/27/2011,4493.535064
+2251,Aliqui RP-48,Rural,Productivity,Aliqui,18434,"Jessup, PA",PA,East,5/30/2002,1007.569924
+550,Maximus UC-15,Urban,Convenience,Maximus,18470,"Union Dale, PA",PA,East,5/15/2000,3231.867681
+1212,Pirum UC-14,Urban,Convenience,Pirum,18424,"Gouldsboro, PA",PA,East,6/19/2012,3779.542204
+1114,Pirum RS-02,Rural,Select,Pirum,18425,"Greeley, PA",PA,East,5/9/2001,1343.566564
+1180,Pirum UE-16,Urban,Extreme,Pirum,18428,"Hawley, PA",PA,East,3/31/2010,4199.538004
+1884,Leo UC-03,Urban,Convenience,Leo,18431,"Honesdale, PA",PA,East,5/13/2008,6551.514484
+2084,Currus UC-19,Urban,Convenience,Currus,18433,"Jermyn, PA",PA,East,8/27/2007,5291.527084
+571,Maximus UC-36,Urban,Convenience,Maximus,18436,"Lake Ariel, PA",PA,East,2/12/2003,4216.757832
+2252,Aliqui RP-49,Rural,Productivity,Aliqui,18436,"Lake Ariel, PA",PA,East,4/2/2002,1091.569084
+605,Maximus UC-70,Urban,Convenience,Maximus,18438,"Lakeville, PA",PA,East,4/12/2005,3189.868101
+769,Natura RP-57,Rural,Productivity,Natura,18444,"Moscow, PA",PA,East,6/24/2006,2288.557114
+2218,Aliqui RP-15,Rural,Productivity,Aliqui,18445,"Newfoundland, PA",PA,East,6/30/2005,1133.568664
+1212,Pirum UC-14,Urban,Convenience,Pirum,18453,"Pleasant Mount, PA",PA,East,6/30/2010,3233.547664
+1441,Quibus RP-33,Rural,Productivity,Quibus,18472,"Waymart, PA",PA,East,1/18/2013,3989.540104
+644,Maximus UC-09,Urban,Convenience,Maximus,18504,"Scranton, PA",PA,East,3/4/2005,6980.330196
+1105,Pirum RP-51,Rural,Productivity,Pirum,18504,"Scranton, PA",PA,East,3/13/2000,1973.560264
+578,Maximus UC-43,Urban,Convenience,Maximus,18505,"Scranton, PA",PA,East,7/1/2009,6299.517004
+2016,Currus UR-19,Urban,Regular,Currus,18505,"Scranton, PA",PA,East,5/28/2002,2435.555644
+2016,Currus UR-19,Urban,Regular,Currus,18508,"Scranton, PA",PA,East,6/9/2000,2414.555854
+1850,Pomum YY-45,Youth,Youth,Pomum,18509,"Scranton, PA",PA,East,5/17/2011,1217.567824
+769,Natura RP-57,Rural,Productivity,Natura,18518,"Old Forge, PA",PA,East,9/16/2002,2099.559004
+512,Maximus UR-01,Urban,Regular,Maximus,18519,"Scranton, PA",PA,East,5/15/2000,1845.881541
+2073,Currus UC-08,Urban,Convenience,Currus,18519,"Scranton, PA",PA,East,8/25/2008,2897.551024
+1182,Pirum UE-18,Urban,Extreme,Pirum,18612,"Dallas, PA",PA,East,6/27/2013,1868.561314
+1212,Pirum UC-14,Urban,Convenience,Pirum,18612,"Dallas, PA",PA,East,8/23/2007,3086.549134
+1948,Currus RP-23,Rural,Productivity,Currus,18615,"Falls, PA",PA,East,3/15/1999,2372.556274
